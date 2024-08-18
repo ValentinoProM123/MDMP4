@@ -5,3 +5,5 @@ http://ultrapremium.cloud:8080/manu654338/manu65338/20203
 http://ultrapremium.cloud:8080/manu654338/manu65338/20220
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdMuBVBUPAuEaHaS-wafoqWOThQfNLo6TPOLRbyYNkr-Qm_mGykEIy4NXW&s=10", EVENTOS 3 (AR)
 https://3c8173d367f6.us-east-1.playback.live-video.net/api/video/v1/us-east-1.343218216726.channel.Ve4eqEw7vRPg.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdMuBVBUPAuEaHaS-wafoqWOThQfNLo6TPOLRbyYNkr-Qm_mGykEIy4NXW&s=10", EVENTOS 4 (AR)
+http://ultrapremium.cloud:8080/manu654338/manu65338/248467
